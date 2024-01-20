@@ -10,6 +10,7 @@
 author is ali pourfereydoon
 
 -->
+<!-- heloo -->
 <?php 
 echo "<b>the first project:  </b>"."Create a simple PHP program which displays your name, address, 
 and paragraph of information about you using the echo instruction.";
@@ -23,6 +24,9 @@ echo  " <b>my name is :</b>" .$name ;
 echo "<br>";
 echo  "<b>my family name is </b> :" . $familyname ;
 echo "<br>";
+
+
+
 
 echo  "<b>information about me </b>"."hi, this is my homepage, so I have to say something about myself. Sometimes
 it is hard to introduce yourself because you know yourself so well that you
